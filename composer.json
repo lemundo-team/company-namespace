@@ -1,0 +1,7 @@
+{
+    "name": "lemundo/company-namespace",
+    "description": "Lemundo company namespace",
+    "require": {
+        "php": "~7.4.0"
+    }
+}
